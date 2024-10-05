@@ -3,3 +3,21 @@ nav{
     width: 100%;
     left: 0px;
 }
+
+#div_menu{
+  /*   top: 100px;
+    position: fixed; 
+    width: inherit;*/
+    max-height: 400px;
+    overflow: auto;
+}
+#div_visor{
+    max-height: 400px;
+    overflow: hidden;
+    padding: 0px;
+    height: 400px;
+}
+iframe{
+    height: inherit;
+    width: 100%;
+}
